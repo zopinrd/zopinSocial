@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^2.2.0",
-    "@supabase/supabase-js": "^2.49.1",
+    "@supabase/supabase-js": "^2.50.0",
     "@types/react-router-dom": "^5.3.3",
     "@types/uuid": "^10.0.0",
     "axios": "^1.8.4",
